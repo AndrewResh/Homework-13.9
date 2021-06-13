@@ -1,0 +1,15 @@
+﻿"Project21.exe" (Win32). Загружено "C:\Users\Andrew Reshetnikov\source\repos\Project21\Debug\Project21.exe". Символы загружены.
+"Project21.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"Project21.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"Project21.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"Project21.exe" (Win32). Загружено "C:\Program Files\AVAST Software\Avast\x86\aswhook.dll". 
+"Project21.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". 
+"Project21.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"Project21.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+Поток 0x483c завершился с кодом 0 (0x0).
+"Project21.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". 
+"Project21.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". 
+"Project21.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+Поток 0x9c4 завершился с кодом 0 (0x0).
+Поток 0x2504 завершился с кодом 0 (0x0).
+Программа "[24012] Project21.exe" завершилась с кодом 0 (0x0).
